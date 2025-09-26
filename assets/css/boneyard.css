@@ -12,4 +12,4 @@
   display: flex;
   justify-content: center; /* This centers the logo horizontally */
 }
-span.cog-button__text { color: #000 !important!; }
+span.cog-button__text { color: #000 !important; }
