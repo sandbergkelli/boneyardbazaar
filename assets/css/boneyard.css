@@ -13,3 +13,6 @@
   justify-content: center; /* This centers the logo horizontally */
 }
 span.cog-button__text { color: #000 !important; }
+@media screen and (max-width: 737px){
+	.logo { display: none;}
+}
